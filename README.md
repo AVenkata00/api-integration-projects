@@ -1,4 +1,4 @@
-# API Integration Project – Education Data Portal
+# API Integration Project - Education Data Portal
 
 ## Objective
 Demonstrate REST API integration, JSON parsing, and structured data transformation using the Urban Institute Education Data API.
